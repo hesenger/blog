@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: "hesenger",
     },
     locale: "en-US",
     baseUrl: "hesenger.github.io/blog",
