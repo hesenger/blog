@@ -1,6 +1,9 @@
 ---
 title: Uncovering the Essence of Event Sourcing in Everyday Systems
 date: 2024-01-09
+tags:
+  - event-sourcing
+  - ddd
 ---
 
 ![[uncovering-event-sourcing.webp]]

@@ -1,6 +1,9 @@
 ---
 title: "Append-Only Tables: Simplifying Database Persistence in Domain-Driven Design"
 date: 2023-12-16
+tags:
+  - ddd
+  - event-sourcing
 ---
 
 ![[append-only-tables.webp]]

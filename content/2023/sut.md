@@ -1,6 +1,10 @@
 ---
 title: SUT
 date: 2023-03-13
+tags:
+  - tdd
+  - legacy-code
+  - code-coverage
 ---
 
 In a previous article I mentioned how SUT class helped us to rebuild the application and business…
