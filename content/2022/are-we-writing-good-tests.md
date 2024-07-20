@@ -9,6 +9,8 @@ tags:
   - rant
 ---
 
+![[are-we-writing-good-tests]]
+
 In the past few years I became more and more addicted by tests. In the first stage of this disease I remember try to test every single happy and unhappy path of a flow, reach 100% code coverage, running tests against real databases and so on. For sure, it is not ideal and I totally understand the reason today.
 
 Although I was very excited with writing tests and see all the "passes" in the CI, I have not stopped to search for more resources and examples, and one day I came across an article about TDD. I don't recall the exact article and it was not the first time I heard about the topic but that time I was bite.
