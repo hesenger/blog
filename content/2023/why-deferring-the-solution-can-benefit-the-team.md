@@ -1,6 +1,8 @@
 ---
 title: Why Deferring Some Part of the Solution in Agile Can Benefit Your Development Team
 date: 2023-02-24
+tags:
+  - agile
 ---
 
 Agile is a methodology that is widely used in the software development industry. One of the key principles of Agile is that it is focused on delivering value to the customer through iterative and incremental development. To achieve this, it is recommended that teams defer some part of the solution to be explored during development rather than having well-defined tasks. In this article, we will discuss why this is important and how it can benefit a development team.

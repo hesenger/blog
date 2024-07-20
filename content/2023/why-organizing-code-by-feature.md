@@ -1,6 +1,9 @@
 ---
 title: Why Organizing Code by Feature is More Effective than by Type
 date: 2023-01-23
+tags:
+  - best-practices
+  - code
 ---
 
 ![[why-organizing-code-by-feature.webp]]

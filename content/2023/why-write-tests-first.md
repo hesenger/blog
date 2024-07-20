@@ -1,6 +1,8 @@
 ---
 title: Why write tests first?
 date: 2023-01-19
+tags:
+  - tdd
 ---
 
 ![[why-write-tests-first.webp]]
