@@ -1,8 +1,9 @@
 ---
-title: Optimizing Your Software Testing Efforts: what not to test?
+title: Optimizing Your Software Testing Efforts - what not to test?
+date: 2023-03-10
 ---
 
-![[optimizing-your-software-testing-efforts.webp]]
+![[optimizing-your-software-testing-efforts-what-not-to-test.webp]]
 
 Testing is an essential part of software development, and it is crucial to ensure that the code being developed is functional and reliable. While testing is important, it is equally important to focus on what to test and what not to test. Testing every single component of a software system can be time-consuming, expensive, and unnecessary. In this article, we will discuss why it is not necessary to test 3rd party libraries, implementation details, and system calls.
 
