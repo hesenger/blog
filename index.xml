@@ -6,11 +6,17 @@
       <description>Last 10 notes on Heber Senger</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
+    <title>Welcome to some random thoughts</title>
     <link>https://hesenger.github.io/blog/</link>
     <guid>https://hesenger.github.io/blog/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Sat, 20 Jul 2024 13:57:16 GMT</pubDate>
+    <description>This is my personal collection of posts around software engineering and my career in the tech industry. I hope you enjoy somehow the content.</description>
+    <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Are we writing good tests?</title>
+    <link>https://hesenger.github.io/blog/2022/are-we-writing-good-tests</link>
+    <guid>https://hesenger.github.io/blog/2022/are-we-writing-good-tests</guid>
+    <description>A rant about my journey through Acceptance Tests and TDD.</description>
+    <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
