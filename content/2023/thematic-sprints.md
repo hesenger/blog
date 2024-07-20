@@ -1,6 +1,10 @@
 ---
 title: Thematic Sprints
 date: 2023-04-14
+tags:
+  - agile
+  - sprints
+  - sprint-planning
 ---
 
 Agile methodology is a well-liked strategy of developing software that places an emphasis on teamwork, adaptability, and constant improvement. The division of work into smaller, more manageable units, known as sprints, is one of the fundamental tenets of agile. A team works on a prioritized collection of items from a product backlog during sprints, which are time-boxed intervals that typically span two to four weeks. A version of this strategy is the use of “thematic sprints,” where each sprint focuses on a different theme or objective. In this post, we’ll examine the advantages of thematic sprints in agile software development.

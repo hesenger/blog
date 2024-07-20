@@ -1,6 +1,9 @@
 ---
 title: "Don’t Jump the Gun: Understanding DDD Before Applying CQRS"
 date: 2023-04-05
+tags:
+  - ddd
+  - cqrs
 ---
 
 Modern software development frequently uses the architectural design pattern known as Command Query Responsibility Segregation (CQRS), which divides a system’s commands (write actions) and queries (read operations).

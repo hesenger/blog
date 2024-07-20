@@ -1,6 +1,10 @@
 ---
 title: Yet another status report meeting
 date: 2023-02-28
+tags:
+  - shape-up
+  - agile
+  - no-meeting
 ---
 
 Status report meetings are a common occurrence in many workplaces. They are often seen as a necessary evil to keep everyone up-to-date on ongoing projects and to ensure that everyone is on the same page. However, the reality is that these meetings are often pointless and can be a waste of time for everyone involved.

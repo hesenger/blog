@@ -1,6 +1,8 @@
 ---
 title: Optimizing Your Software Testing Efforts - what not to test?
 date: 2023-03-10
+tags:
+  - tdd
 ---
 
 ![[optimizing-your-software-testing-efforts-what-not-to-test.webp]]

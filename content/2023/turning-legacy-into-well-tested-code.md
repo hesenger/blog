@@ -1,6 +1,10 @@
 ---
 title: How we turned old legacy code into shiny well tested code.
 date: 2023-03-11
+tags:
+  - tdd
+  - legacy-code
+  - turbo
 ---
 
 Modernizing an old legacy system can be a daunting task for any software development team. One of the biggest challenges is to make changes without disrupting the existing system, which is often complex and difficult to understand. In this article, we will explain how we turned an old 10-year legacy system into a shiny new code by keeping all the data structure intact and writing executable specifications.
