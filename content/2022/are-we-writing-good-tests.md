@@ -9,7 +9,7 @@ tags:
   - rant
 ---
 
-![[are-we-writing-good-tests]]
+![[are-we-writing-good-tests.webp]]
 
 In the past few years I became more and more addicted by tests. In the first stage of this disease I remember try to test every single happy and unhappy path of a flow, reach 100% code coverage, running tests against real databases and so on. For sure, it is not ideal and I totally understand the reason today.
 
