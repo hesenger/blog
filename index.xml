@@ -10,13 +10,61 @@
     <link>https://hesenger.github.io/blog/</link>
     <guid>https://hesenger.github.io/blog/</guid>
     <description>This is my personal collection of posts around software engineering and my career in the tech industry. I hope you somehow enjoy the content. The articles here were published on medium previously and then migrated to this due to my personal issues with the platform paywall that although was not enabled on my posts is disgusting and makes me skip any google result for medium.</description>
-    <pubDate>Sat, 20 Jul 2024 20:17:48 GMT</pubDate>
+    <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Are we writing good tests?</title>
-    <link>https://hesenger.github.io/blog/2022/are-we-writing-good-tests</link>
-    <guid>https://hesenger.github.io/blog/2022/are-we-writing-good-tests</guid>
-    <description>A rant about my journey through Acceptance Tests and TDD.</description>
-    <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+    <title>NSequence</title>
+    <link>https://hesenger.github.io/blog/2024/nsequence</link>
+    <guid>https://hesenger.github.io/blog/2024/nsequence</guid>
+    <description> The first version of NSequence, a simple yet powerful HiLo sequence generator suited for dotnet, was released today. NSequence, designed with simplicity in mind, provides an easy way to generate unique IDs for business items within your applications.</description>
+    <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Uncovering the Essence of Event Sourcing in Everyday Systems</title>
+    <link>https://hesenger.github.io/blog/2024/uncovering-event-sourcing</link>
+    <guid>https://hesenger.github.io/blog/2024/uncovering-event-sourcing</guid>
+    <description> The idea of “event sourcing” has long felt very complicated to many in the software development industry. For many, it could seem like a paradigm change, but in reality, most systems are far closer to Event Sourcing than they may think.</description>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Append-Only Tables: Simplifying Database Persistence in Domain-Driven Design</title>
+    <link>https://hesenger.github.io/blog/2023/append-only-tables</link>
+    <guid>https://hesenger.github.io/blog/2023/append-only-tables</guid>
+    <description>...</description>
+    <pubDate>Sat, 16 Dec 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Thematic Sprints</title>
+    <link>https://hesenger.github.io/blog/2023/thematic-sprints</link>
+    <guid>https://hesenger.github.io/blog/2023/thematic-sprints</guid>
+    <description>Agile methodology is a well-liked strategy of developing software that places an emphasis on teamwork, adaptability, and constant improvement. The division of work into smaller, more manageable units, known as sprints, is one of the fundamental tenets of agile.</description>
+    <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Don’t Jump the Gun: Understanding DDD Before Applying CQRS</title>
+    <link>https://hesenger.github.io/blog/2023/ddd-cqrs</link>
+    <guid>https://hesenger.github.io/blog/2023/ddd-cqrs</guid>
+    <description>Modern software development frequently uses the architectural design pattern known as Command Query Responsibility Segregation (CQRS), which divides a system’s commands (write ...</description>
+    <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>SUT</title>
+    <link>https://hesenger.github.io/blog/2023/sut</link>
+    <guid>https://hesenger.github.io/blog/2023/sut</guid>
+    <description>In a previous article I mentioned how SUT class helped us to rebuild the application and business… This is not a easy work at all, and many other practices like Feature Flags could be ...</description>
+    <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>How we turned old legacy code into shiny well tested code.</title>
+    <link>https://hesenger.github.io/blog/2023/turning-legacy-into-well-tested-code</link>
+    <guid>https://hesenger.github.io/blog/2023/turning-legacy-into-well-tested-code</guid>
+    <description>Modernizing an old legacy system can be a daunting task for any software development team. One of the biggest challenges is to make changes without disrupting the existing system, which is often complex and difficult to understand.</description>
+    <pubDate>Sat, 11 Mar 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Optimizing Your Software Testing Efforts - what not to test?</title>
+    <link>https://hesenger.github.io/blog/2023/optimizing-your-software-testing-efforts-what-not-to-test</link>
+    <guid>https://hesenger.github.io/blog/2023/optimizing-your-software-testing-efforts-what-not-to-test</guid>
+    <description> Testing is an essential part of software development, and it is crucial to ensure that the code being developed is functional and reliable. While testing is important, it is equally important to focus on what to test and what not to test.</description>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Yet another status report meeting</title>
+    <link>https://hesenger.github.io/blog/2023/yet-another-status-report-meeting</link>
+    <guid>https://hesenger.github.io/blog/2023/yet-another-status-report-meeting</guid>
+    <description>Status report meetings are a common occurrence in many workplaces. They are often seen as a necessary evil to keep everyone up-to-date on ongoing projects and to ensure that everyone is on the same page.</description>
+    <pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
