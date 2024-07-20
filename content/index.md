@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to some random thoughts
+date: 2024-07-20
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my personal collection of posts around software engineering and my career in the
+tech industry. I hope you enjoy somehow the content.
